@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:10000/api",
+  baseURL: "https://video-service-1-m2eo.onrender.com/api",
   withCredentials: true,
 });
 
