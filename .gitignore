@@ -15,6 +15,9 @@ dist/
 frontend/dist/
 frontend/build/
 
+key
+key.pub
+
 
 
 
